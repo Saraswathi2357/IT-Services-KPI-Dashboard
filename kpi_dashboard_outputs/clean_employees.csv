@@ -1,0 +1,61 @@
+emp_id,emp_name,department,role
+E001,Employee_1,Data Engineering,Cloud Engineer
+E002,Employee_2,BI,Data Engineer
+E003,Employee_3,Development,Data Analyst
+E004,Employee_4,Development,Data Analyst
+E005,Employee_5,QA,QA Engineer
+E006,Employee_6,Cloud,BI Developer
+E007,Employee_7,Development,Backend Developer
+E008,Employee_8,Development,BI Developer
+E009,Employee_9,Cloud,Backend Developer
+E010,Employee_10,Development,QA Engineer
+E011,Employee_11,Analytics,Data Analyst
+E012,Employee_12,Cloud,QA Engineer
+E013,Employee_13,Data Engineering,QA Engineer
+E014,Employee_14,Development,Cloud Engineer
+E015,Employee_15,Data Engineering,Backend Developer
+E016,Employee_16,QA,Cloud Engineer
+E017,Employee_17,BI,Cloud Engineer
+E018,Employee_18,BI,Data Analyst
+E019,Employee_19,Development,Data Analyst
+E020,Employee_20,Development,Data Engineer
+E021,Employee_21,BI,QA Engineer
+E022,Employee_22,Data Engineering,BI Developer
+E023,Employee_23,BI,Data Analyst
+E024,Employee_24,Data Engineering,Cloud Engineer
+E025,Employee_25,Analytics,Cloud Engineer
+E026,Employee_26,Cloud,QA Engineer
+E027,Employee_27,QA,Data Engineer
+E028,Employee_28,Analytics,Data Analyst
+E029,Employee_29,Cloud,Backend Developer
+E030,Employee_30,BI,Data Engineer
+E031,Employee_31,Analytics,Cloud Engineer
+E032,Employee_32,Data Engineering,Backend Developer
+E033,Employee_33,QA,Data Analyst
+E034,Employee_34,BI,BI Developer
+E035,Employee_35,Cloud,Cloud Engineer
+E036,Employee_36,Data Engineering,Data Analyst
+E037,Employee_37,QA,QA Engineer
+E038,Employee_38,Development,Cloud Engineer
+E039,Employee_39,QA,Backend Developer
+E040,Employee_40,Cloud,Data Engineer
+E041,Employee_41,Cloud,BI Developer
+E042,Employee_42,Cloud,Backend Developer
+E043,Employee_43,Analytics,Data Analyst
+E044,Employee_44,Data Engineering,QA Engineer
+E045,Employee_45,Development,Backend Developer
+E046,Employee_46,QA,BI Developer
+E047,Employee_47,Development,Data Engineer
+E048,Employee_48,Cloud,Backend Developer
+E049,Employee_49,Cloud,QA Engineer
+E050,Employee_50,QA,Data Analyst
+E051,Employee_51,BI,BI Developer
+E052,Employee_52,Development,Data Analyst
+E053,Employee_53,Cloud,Data Analyst
+E054,Employee_54,Cloud,Data Engineer
+E055,Employee_55,Cloud,Backend Developer
+E056,Employee_56,BI,Data Analyst
+E057,Employee_57,Cloud,Data Analyst
+E058,Employee_58,BI,QA Engineer
+E059,Employee_59,QA,BI Developer
+E060,Employee_60,QA,BI Developer
